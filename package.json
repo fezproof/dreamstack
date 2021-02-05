@@ -29,8 +29,10 @@
   "dependencies": {},
   "devDependencies": {
     "@nrwl/cli": "11.2.10",
+    "@nrwl/next": "^11.2.10",
+    "@nrwl/node": "^11.2.10",
     "@nrwl/tao": "11.2.10",
-    "@nrwl/workspace": "11.2.10",
+    "@nrwl/workspace": "^11.2.10",
     "@types/node": "12.12.38",
     "dotenv": "6.2.0",
     "prettier": "2.2.1",
